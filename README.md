@@ -1,1 +1,0 @@
-# textnarts_project
